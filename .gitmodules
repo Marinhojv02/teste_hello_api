@@ -1,0 +1,3 @@
+[submodule "libs/teste_hello"]
+	path = libs/teste_hello
+	url = git@github.com:Marinhojv02/teste_hello.git
